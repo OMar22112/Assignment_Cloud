@@ -17,7 +17,7 @@ Navigate to the location of your project
 
 Type docker pull omar2211/frontend:latest in the terminal to download the Docker image.
 
-Type docker compose up --build flask_app in the terminal to build and run the backend.
+Type (docker compose up flask_app) in the terminal to build and run the backend.
 
 
 In the VS Code terminal, type npm start to start the website.
